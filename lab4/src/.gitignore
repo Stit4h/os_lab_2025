@@ -1,0 +1,8 @@
+*.o
+*.a
+parallel_min_max
+process_memory
+zombie
+psum
+minmax_*.tmp
+__pycache__/
